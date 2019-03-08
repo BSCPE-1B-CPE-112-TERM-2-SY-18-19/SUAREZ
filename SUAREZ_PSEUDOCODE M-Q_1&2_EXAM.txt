@@ -1,0 +1,59 @@
+//*SUAREZ PSEUDO CODES*//
+
+=======
+
+QUIZ - 1-M : (Palindromic Prime from a desired Range)
+
+ This program will determined the palindromic prime numbers in the desired input range
+ Declaring the variables in a long input so that it will have a long number
+ Inputing the desired range
+ scanning the long input variable range
+ Starting the for - loop statement to determine elements starting from '2' within the input range in array form
+ Process for identifying the prime number
+ Process of determining the the binary of the prime 
+ Process of reversing the binary of the prime numbers in the input range
+ Process of finding out whether the reverse of the binary prime in the input range is a palindrome
+ If binary is equal to the reverse
+ Print the "palindromic prime numbers that are in the desired range"
+
+
+=======
+
+QUIZ - 2M : (Wasteful Number)
+
+ 
+ This program will determined the wasteful number in the innput number of the program
+ Input numbers
+ Process of breaking when inputing '0'
+ Process of determining the prime factors in each of the number
+ Then the process of counting the factors
+ Process of counting the number of digits of the specific input/s number
+ Process of comparing the number of digits of the specific input number and prime factors
+ If prime factors is less than digits
+ Print "NON-WASTEFUL NUMBER/S"
+ Else 
+ print "WASTEFUL NUMBER/S"
+
+
+=======
+
+MIDTERM : (Palindromic Prime of the Wasteful Prime factors)
+
+
+ This program will determined the palindromic prime of the wasteful prime factors in the desired range
+ Input your desired range
+ For - loop statement to determine elements starting from '2' within the range in array form
+ Determine prime factors of each element
+ Then processing the counting of prime factors of each number
+ Process of counting the number of digits of the each element/number
+ Comparing the number of digits and prime factors
+ If factor is more than digits
+ Print "WASTEFUL NUMBER/S"
+ Process of getting the binary of each of the wasteful prime factors
+ Process of reversing the binary of prime factors of the wasteful number/s
+ Process of finding out whether the reverse of the binary prime factos of the wasteful number is a palindrome
+ If binary is equal to reverse
+ Print only the "PALINDROMIC PRIME FACTORS" of the specific wasteful number that starts w/ a 3-digits binary 
+
+=======
+note: Nahurot akong english HAHAHAHA

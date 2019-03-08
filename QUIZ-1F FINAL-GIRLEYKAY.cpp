@@ -103,15 +103,15 @@ long computer::reverse(long num2){ // process of reversing the binary of a numbe
 }}
 
 long computer::digit(long num3){ //process of counting how many digit/s of a specific number
-	caryl=num3;
-	jean=num3;
+	girley=num3;
+	kay=num3;
 	digits = 0;
 
-	for (;caryl!=0;){
-		caryl=caryl/10;
+	for (;girley!=0;){
+		girley=girley/10;
 		digits++;
 		}
-		primefactorization(jean); // storing the value of jean to primefactorization
+		primefactorization(kay); // storing the value of jean to primefactorization
 }
 
 long computer::primefactorization(long num4){ // process of getting the factor and the number of factors of a specific number
